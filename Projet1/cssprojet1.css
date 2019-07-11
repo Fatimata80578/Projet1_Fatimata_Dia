@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin-left: 450px;
+    margin-right:450px;
+    font: georgia;
+}
+.grande_photo{
+    width: 600px;
+    height:400px;
+    margin-left: -75px;
+    margin-right: 50%;
+}
+.header ul{
+    display:flex;
+    flex-direction: row;
+    margin: 2%;
+    width: auto;
+}
+.header ul li{
+    margin-left: 40px;
+}
+.navigation ul{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    width:40%;
+}
+.navigation ul li{
+    margin-right: 40px;
+}
+.m{
+    width:30px;
+    height: 30px;
+}
+.onezero{
+    width:60px;
+    height: 40px; 
+}
+
